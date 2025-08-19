@@ -60,8 +60,9 @@ Essential is built to last, not just to impress.
 
 ## 📎 GitHub & Contact
 
-- GitHub: [sheikh98-dev](https://github.com/sheikh98-dev)  
-- Telegram Channel: [Link to your channel](https://t.me/Sheikh98_DEV)
+- [My Github](https://github.com/sheikh98-dev)  
+- [My Telegram Channel](https://t.me/Sheikh98_DEV)
+- [Contact me](https://t.me/Sheikh98DEV)
 
 
 ---
