@@ -24,7 +24,7 @@ Unlike many other modified builds, Essential is based on the **latest 24H2 relea
 
 - **ISO Size:** ~4 GB  
 - **Format Compatibility:** Can be flashed to FAT32 USB drives  
-- **Included Tools:** Rufus (recommended for installation) [GPT/UEFI/FATS32]
+- **Included Tools:** Rufus (recommended for installation) [GPT/UEFI/FAT32]
 
 ---
 
