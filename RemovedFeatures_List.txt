@@ -1,0 +1,229 @@
+﻿:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::: Removed or disabled features and components of Windows 11 Essential by Sheikh98-DEV:::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+1527c705-839a-4832-9118-54d4bd6a0c89 'File Picker'
+Adamclient 'active directory lightweight directory services (ad lds)'
+App Compatibility Appraiser and Assistant
+App Launch Tracking
+App.StepsRecorder
+AppGuard
+Apps Access
+Apxunit 'apx speaker and microphone driver'
+Assembly.net '.net assembly cache'
+Auto-install Subscribed/Suggested Apps
+Autocheck Proxy
+Bing in Start Menu
+BitLocker
+C5e2524a-ea46-4f67-841f-6a9465d9d515 'file explorer (legacy)'
+CapFrameX
+Chat Icon
+Cloud Voice Recognation
+Contacts
+Copilot
+Customer Experiment Improvement Program
+Datacenterbridging 'data center bridging (dcb)'
+Delivery Optimization
+DevHome
+Diagnostics and Privacy
+Docker
+E2a4f912-2574-4a75-9bb0-0d023378592b 'app resolver'
+Easeofaccessthemes 'ease of access themes'
+Edge
+Edge.Webview2.Platform
+Embeddedexperience 'device lockdown (embedded experience)'
+Enhancedstorage 'enhanced storage'
+Enterpriseclientsync 'work folders client'
+F46d4000-fd22-4db4-ac8e-4e1ddde828fe 'add folder suggestions dialog'
+Handwriting
+Hello.Face.20134
+Help 'windows help content'
+Helpsupport 'help file support (chm)'
+Hibernation
+Hyper-V
+Hyper-V VM
+Ias 'internet authentication service (ias)'
+Iis 'internet information server (iis)'
+Inking
+Internetexplorer32 'internet explorer - 32 bit'
+Kerneldebug 'kernel debugging'
+La57 '57-bit linear addressing'
+Langafrikaans 'afrikaans'
+Langalbanian 'albanian'
+Langamharic 'amharic'
+Langarmenian 'armenian'
+Langassamese 'assamese'
+Langazerbaijani 'azerbaijani'
+Langbasque 'basque'
+Langbelarusian 'belarusian'
+Langbengali_india 'bengali (india)'
+Langbosnian 'bosnian'
+Langbulgarian 'bulgarian'
+Langcatalan 'catalan'
+Langcherokee 'cherokee'
+Langchineses 'chinese simplified'
+Langchineset 'chinese traditional'
+Langcroatian 'croatian'
+Langczech 'czech'
+Langdanish 'danish'
+Langdutch 'dutch'
+Langenglishgb 'english (gb)'
+Langestonian 'estonian'
+Langfilipino 'filipino'
+Langfinnish 'finnish'
+Langfrench 'french'
+Langfrenchcanadian 'french (canadian)'
+Langgalician 'galician'
+Langgeorgian 'georgian'
+Langgerman 'german'
+Langgreek 'greek'
+Langgujarati 'gujarati'
+Langhebrew 'hebrew'
+Langhindi 'hindi'
+Langhungarian 'hungarian'
+Langicelandic 'icelandic'
+Langimejp 'japanese (ime)'
+Langimeko 'korean (ime)'
+Langimetc 'chinese traditional (ime)'
+Langindonesian 'indonesian'
+Langirish 'irish'
+Langitalian 'italian'
+Langjapanese 'japanese'
+Langkannada 'kannada'
+Langkazakh 'kazakh'
+Langkhmer 'khmer'
+Langkonkani 'konkani'
+Langkorean 'korean'
+Langlao 'lao'
+Langlatvian 'latvian'
+Langlithuanian 'lithuanian'
+Langluxembourgish 'luxembourgish'
+Langmacedonian 'macedonian'
+Langmalay_malaysia 'malay (malaysia)'
+Langmalayalam 'malayalam'
+Langmaltese 'maltese'
+Langmaori 'maori'
+Langmarathi 'marathi'
+Langnepali 'nepali'
+Langnorwegian 'norwegian'
+Langodia 'odia'
+Langpolish 'polish'
+Langportuguesebr 'portuguese (brazilian)'
+Langportuguesept 'portuguese'
+Langpunjabi 'punjabi'
+Langquechua 'quechua'
+Langromanian 'romanian'
+Langrussian 'russian'
+Langscottish 'scottish'
+Langserbian 'serbian'
+Langslovak 'slovak'
+Langslovenian 'slovenian'
+Langspanish 'spanish'
+Langswedish 'swedish'
+Langtamil 'tamil'
+Langtatar 'tatar'
+Langtelugu 'telugu'
+Langthai 'thai'
+Langturkish 'turkish'
+Language.Handwritingen-us
+Language.OCRen-us
+Language.Speechen-us
+Language.TextToSpeechen-us
+Langukrainian 'ukrainian'
+Langurdu 'urdu'
+Languyghur 'uyghur'
+Languzbek 'uzbek'
+Langvalencian 'valencian'
+Langvietnamese 'vietnamese'
+Langwelsh 'welsh'
+Location Services
+Lxss 'windows subsystem for linux'
+Manifestbackup 'manifest backup (winsxs\backup)'
+MathRecognizer
+Media.WindowsMediaPlayer
+Mediaplayer 'windows media player'
+Mediaplayer32 'windows media player - 32 bit'
+Mediaplayernetworksharing 'wmp network sharing service'
+Mediaplayernetworksharing32 'wmp network sharing service - 32 bit'
+Microsoft Defender
+Microsoft-RemoteDesktopConnection
+Microsoft.Microsoftedgedevtoolsclient 'Microsoft edge devtools client'
+Microsoft.Wallpapers.Extended
+Microsoft.Windows.Ethernet.Client.Vmware.Vmxnet3
+Microsoft.Windows.Notepad.System
+Microsoft.asynctextservice 'asynctextservice'
+Microsoft.ecapp 'eye control'
+Microsoft.windows.contentdeliverymanager 'content delivery manager'
+Microsoft.windows.narratorquickstart 'narrator'
+Microsoft.windows.oobenetworkcaptiveportal 'captive portal flow'
+Microsoft.windows.oobenetworkconnectionflow 'network connection flow'
+Microsoft.windows.parentalcontrols 'Microsoft family safety'
+Microsoft.windows.peopleexperiencehost 'windows shell experience'
+Microsoft.windows.pinningconfirmationdialog 'pinningconfirmationdialog'
+Microsoft.xboxgamecallableui 'xbox game ui'
+Microsoftwindows.client.coreai 'windows feature experience pack - coreai'
+Microsoftwindows.client.oobe 'windows feature experience pack - oobe'
+Msmq 'Microsoft message queue (msmq)'
+Multipointconnector 'multipoint connector'
+NTFS Last Access
+NetworkDiscovery
+OneCoreUAP.OneSync
+OneDrive
+OpenSSH.Client
+Otherthemes 'windows personalization themes'
+Outlook
+Parallels VM
+Photoviewer 'photo viewer'
+Photoviewer32 'photo viewer - 32 bit'
+Prefetch (SysMain)
+Printing-Foundation-InternetPrinting-Client
+Program Data Updater
+RDPServer
+Rdc 'Remote differential compression (rdc)'
+Rdpclient32 'Remote desktop client - 32 bit'
+Rdpserver 'Remote desktop server'
+Recommended-Tablet
+Remote Desktop
+Remoteaccessservice 'routing and Remote access service'
+Remoteactivex32 'Remote desktop services activex client - 32 bit'
+Remoteassistance 'Remote assistance'
+Remotefx
+Remoteportredirector 'Remote desktop services port redirector'
+Reserved Storage
+SafeMode
+SearchEngine-Client-Package
+Sharemediacpl 'share media control panel'
+Simpletcp 'simple tcp/ip services'
+Smbdirect 'smb direct (rdma)'
+Sponsored Apps
+Supportdir 'support directory'
+Sync Settings
+Systemrestore 'system restore'
+Telemetry
+Tftpclient 'tftp client'
+Uev 'user experience virtualization (ue-v)'
+VMware VM
+VSS
+Virtual Box VM
+WCF-TCP-PortSharing45
+Wallet 'wallet service'
+Wallpaperdefault 'wallpaper (default)'
+Wallpapers 'wallpapers (themes)'
+Windows AI Features
+Windows Error Reporting
+Windows Firewall
+Windows Insider Experiments
+Windows Privacy Consent
+Windows Recovery
+Windows Search (Indexing)
+Windows.DirectoryServices.ADAM.Client.Content
+Windows.Kernel.LA57
+Windows.SmbDirect
+Windows.TFTP.Client
+Windows.TerminalServices.AppServerClient
+Windows.WinOcr
+Windows.cbspreview 'windows barcode preview'
+Windowstogo 'windows to go'
+Xbox 'xbox - core'
+Xbox and all Xbox services
+YubiKey
